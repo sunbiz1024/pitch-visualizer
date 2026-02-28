@@ -1,4 +1,5 @@
 matplotlib>=3.6.0
 numpy<2
 tqdm
-praat-parselmouth==0.4.3
+praat-parselmouth>=0.4.4
+
